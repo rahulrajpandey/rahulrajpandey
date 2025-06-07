@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a Bangalore-based backend engineer with 7+ years of experience, currently building a **Kafka-as-a-Service platform** using Confluent on **Azure AKS**. My work blends the best of **Spring Boot**, **Kubernetes**, and **DevOps automation**, making event-driven architectures easy to adopt for application teams.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahulrajpandey.rahulrajpandey)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahulrajpandey.rahulrajpandey) -->
 
 ---
 
