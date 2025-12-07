@@ -13,9 +13,6 @@ Welcome to my GitHub! I'm a Bangalore-based backend engineer with 7+ years of ex
 - 🛠️ **Kafka Platform Engineering**  
   Building secure, self-serve Kafka onboarding experiences with SCRAM, Vault integration, and Helm-based CFK deployments.
 
-- 🧪 **Local Dev Experiments**  
-  Running a lightweight **Kafka + Kafka UI + REST Proxy + MirrorMaker2** stack on Docker Compose for sandbox testing.
-
 - 🤖 **AI Agent Dev (POC)**  
   Learning to build **Python-based AI agents** using **Ollama + LLaMA 3**, focused on automating backend workflows and support tasks.
 
