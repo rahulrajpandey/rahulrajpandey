@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a Bangalore-based backend engineer with 7+ years of ex
 ## 📈 GitHub Stats
 
 <!-- Replace in your README.md -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=rahulrajpandey&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" alt="Rahul Raj Stats" width="510"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajpandey&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="460"/>
