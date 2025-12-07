@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a Bangalore-based backend engineer with 7+ years of experience, currently building a **Kafka-as-a-Service platform** using Confluent on **Azure AKS**. My work blends the best of **Spring Boot**, **Kubernetes**, and **DevOps automation**, making event-driven architectures easy to adopt for application teams.
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahulrajpandey.rahulrajpandey) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahulrajpandey.rahulrajpandey)
 
 ---
 
@@ -32,10 +32,11 @@ Welcome to my GitHub! I'm a Bangalore-based backend engineer with 7+ years of ex
 
 ## 📈 GitHub Stats
 
+<!-- Replace in your README.md -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrajpandey&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajpandey&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulrajpandey&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" alt="Rahul Raj Stats" width="510"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajpandey&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="460"/>
 </p>
 
 ---
@@ -56,19 +57,3 @@ I'm currently optimizing Kafka clusters *and* planning family beach trips with m
 
 Thanks for stopping by! Feel free to explore, fork, or drop a message. Always happy to collaborate 🚀
 
-
-
-<!--
-**rahulrajpandey/rahulrajpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
